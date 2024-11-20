@@ -12,6 +12,12 @@
 
 TBD;
 
+## Acknowledgements
+
+1. [SOV Nophanit](https://www.f0nt.com/release/sov-nophanit) typeface by [Worawut Thanawatanawich](https://facebook.com/worawut.thanawatanawanich)
+2. [Streamlit](https://streamlit.io) - A faster way to build and share data apps
+3. [Stlite](https://github.com/whitphx/stlite) - In-browser Streamlit 🎈🚀 
+
 ## License
 
 This project is licensed under the terms of the MIT license.
