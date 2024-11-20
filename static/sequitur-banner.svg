@@ -94,10 +94,10 @@
     y='12rem'
     >
     <tspan dy='0' x='16rem'>
-      Sample Streamlit FAQ interface using Large Language Model
+      Sample Streamlit FAQ interface using Large Language
     </tspan>
     <tspan dy='1.6rem' x='16rem'>
-      iteration method for expensive painless development
+      Model iteration method for painless development
     </tspan>
   </text>
 </svg>
