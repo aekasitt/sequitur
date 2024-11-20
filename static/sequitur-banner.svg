@@ -94,10 +94,10 @@
     y='12rem'
     >
     <tspan dy='0' x='16rem'>
-      Collaborative UTXOs done on the relay network NOSTR
+      Sample Streamlit FAQ interface using Large Language Model
     </tspan>
     <tspan dy='1.6rem' x='16rem'>
-      using relative timelocks allowing unilateral withdrawals.
+      iteration method for expensive painless development
     </tspan>
   </text>
 </svg>
