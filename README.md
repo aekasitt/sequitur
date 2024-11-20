@@ -6,7 +6,7 @@
 [![Size](https://img.shields.io/github/repo-size/aekasitt/sequitur)](https://github.com/aekasitt/sequitur)
 [![Last commit](https://img.shields.io/github/last-commit/aekasitt/sequitur/master)](https://github.com/aekasitt/sequitur)
 
-[![Sequitur Banner](static/sequitur-banner.svg)](https://github.com/aekasitt/sequitur-banner.svg)
+[![Sequitur Banner](static/sequitur-banner.svg)](https://github.com/aekasitt/sequitur/blob/master/static/sequitur-banner.svg)
 
 ## Contributions
 
